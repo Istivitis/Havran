@@ -1,0 +1,2071 @@
+fileFormatVersion: 2
+guid: 287078227fd4fd84683ad926fa29d809
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: UPflame dude_Frame_1
+    originalName: 
+    pivot: {x: 1.7777779, y: -0.7307692}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 395
+      width: 18
+      height: 26
+    spriteID: 51c178e9fb26bac45bfa42aa709d561f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 395}
+  - name: UPflame dude_Frame_7
+    originalName: 
+    pivot: {x: 1.7777779, y: -0.82608694}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 280
+      width: 18
+      height: 23
+    spriteID: d7085aa561648c34c8aecae2d96b4082
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 280}
+  - name: UPflame dude_Frame_15
+    originalName: 
+    pivot: {x: 1.0666667, y: -0.7916666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 331
+      y: 84
+      width: 30
+      height: 24
+    spriteID: 0f0e9dd50c1a7b343b01d5f6ee1df380
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 331, y: 84}
+  - name: UPflame dude_Frame_16
+    originalName: 
+    pivot: {x: 1.0322582, y: -0.7916666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 476
+      y: 51
+      width: 31
+      height: 24
+    spriteID: 85db72374a758c44f91b36e4ad65cf84
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 476, y: 51}
+  - name: UPflame dude_Frame_17
+    originalName: 
+    pivot: {x: 1.0322582, y: -0.7916666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 473
+      width: 31
+      height: 24
+    spriteID: de73015990e4c4a45b5b6d351c6ab46f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 473}
+  - name: UPflame dude_Frame_18
+    originalName: 
+    pivot: {x: 0.7111111, y: -0.7916666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 278
+      y: 84
+      width: 45
+      height: 24
+    spriteID: 91b4cde49e839fc4c830d445af02009f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 278, y: 84}
+  - name: UPflame dude_Frame_19
+    originalName: 
+    pivot: {x: 0.6530613, y: -0.7916666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 419
+      y: 51
+      width: 49
+      height: 24
+    spriteID: eaeee4dbefcbcf54689b1c92d5de0aa6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 419, y: 51}
+  - name: UPflame dude_Frame_20
+    originalName: 
+    pivot: {x: 0.60377365, y: -0.7916666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 358
+      y: 51
+      width: 53
+      height: 24
+    spriteID: eef500dff46e21d4e86b361808234932
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 358, y: 51}
+  - name: UPflame dude_Frame_21
+    originalName: 
+    pivot: {x: 0.44444448, y: -0.76}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 278
+      y: 51
+      width: 72
+      height: 25
+    spriteID: f6f57858cc170d148ab3ace7abea1b57
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 278, y: 51}
+  - name: UPflame dude_Frame_22
+    originalName: 
+    pivot: {x: 0.4383562, y: -0.6551724}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 432
+      y: 4
+      width: 73
+      height: 29
+    spriteID: 5e743ac1bd7f3dc488b07630514a21d2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 432, y: 4}
+  - name: UPflame dude_Frame_23
+    originalName: 
+    pivot: {x: 0.4383562, y: -0.5294118}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 351
+      y: 4
+      width: 73
+      height: 34
+    spriteID: c0e790c729600a945945ac020af28cc1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 351, y: 4}
+  - name: UPflame dude_Frame_24
+    originalName: 
+    pivot: {x: 0.40506333, y: -0.5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 264
+      y: 4
+      width: 79
+      height: 36
+    spriteID: 921e1048a7668be4e8015fd41b7d386a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 264, y: 4}
+  - name: UPflame dude_Frame_25
+    originalName: 
+    pivot: {x: 0.40506333, y: -0.48648652}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 177
+      y: 4
+      width: 79
+      height: 37
+    spriteID: 2490ac78527d44c4f8f973b3485322f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 177, y: 4}
+  - name: UPflame dude_Frame_26
+    originalName: 
+    pivot: {x: 0.41025642, y: -0.47368422}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 91
+      y: 4
+      width: 78
+      height: 38
+    spriteID: c391e9fe65b096d438d4fa1fd01b54eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 91, y: 4}
+  - name: UPflame dude_Frame_27
+    originalName: 
+    pivot: {x: 0.40506333, y: -0.4615385}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 79
+      height: 39
+    spriteID: b0c683cdee220444096cafa417fc0930
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: UPflame dude_Frame_28
+    originalName: 
+    pivot: {x: 1.7777779, y: -0.82608694}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 311
+      width: 18
+      height: 23
+    spriteID: 85e8df8380c20ce4b9b429db97186f62
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 311}
+  - name: UPflame dude_Frame_29
+    originalName: 
+    pivot: {x: 1.7777779, y: -0.7916666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 152
+      width: 18
+      height: 24
+    spriteID: 3c389caa75536834389d1604b8e6aca4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 152}
+  - name: UPflame dude_Frame_30
+    originalName: 
+    pivot: {x: 1.7777779, y: -0.7916666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 184
+      width: 18
+      height: 24
+    spriteID: 6f324be8e570a1245b36cb3b493072e2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 184}
+  - name: UPflame dude_Frame_31
+    originalName: 
+    pivot: {x: 1.6842107, y: -0.8636363}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 174
+      y: 146
+      width: 19
+      height: 22
+    spriteID: 96a7fa33ecd4add458b75b0a0108e894
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 174, y: 146}
+  - name: UPflame dude_Frame_32
+    originalName: 
+    pivot: {x: 1.6842107, y: -0.95}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 174
+      y: 176
+      width: 19
+      height: 20
+    spriteID: 325e9835b1eacf04e9118c29cfdaec7d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 174, y: 176}
+  - name: UPflame dude_Frame_33
+    originalName: 
+    pivot: {x: 1.6842107, y: -1.0555555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 489
+      width: 19
+      height: 18
+    spriteID: a2baec406be4f274e952a5e9f7ba2b6e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 489}
+  - name: UPflame dude_Frame_34
+    originalName: 
+    pivot: {x: 1.6842107, y: -1.0555555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 174
+      y: 204
+      width: 19
+      height: 18
+    spriteID: 53fe336c732ba194189d3a194b0462d6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 174, y: 204}
+  - name: UPflame dude_Frame_35
+    originalName: 
+    pivot: {x: 1.6842107, y: -1.0555555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 174
+      y: 230
+      width: 19
+      height: 18
+    spriteID: 665591755fe6bd74ab14b96de82116a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 174, y: 230}
+  - name: UPflame dude_Frame_36
+    originalName: 
+    pivot: {x: 1.6842107, y: -1.0555555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 174
+      y: 256
+      width: 19
+      height: 18
+    spriteID: 101d5b0f9478fe243bf1de7d11b96d41
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 174, y: 256}
+  - name: UPflame dude_Frame_37
+    originalName: 
+    pivot: {x: 1.6842107, y: -1.0555555}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 174
+      y: 282
+      width: 19
+      height: 18
+    spriteID: 9a59522f313b0eb45afc1437e73c5ed5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 174, y: 282}
+  - name: UPflame dude_Frame_51
+    originalName: 
+    pivot: {x: 1.388889, y: -0.96}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 159
+      width: 18
+      height: 25
+    spriteID: 7beb9f8f032b41c44b5df8bc4a7f4fbc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 159}
+  - name: UPflame dude_Frame_52
+    originalName: 
+    pivot: {x: 1.388889, y: -0.96}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 192
+      width: 18
+      height: 25
+    spriteID: c39997c3220c36740800c3ecd22291f9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 192}
+  - name: UPflame dude_Frame_53
+    originalName: 
+    pivot: {x: 1.388889, y: -0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 214
+      width: 18
+      height: 32
+    spriteID: f3e88ddd2bbc76f41a44b93bee5f4c5c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 214}
+  - name: UPflame dude_Frame_54
+    originalName: 
+    pivot: {x: 1.3157895, y: -0.7741935}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 175
+      width: 19
+      height: 31
+    spriteID: 1e1b13a8e8fb1db4da03b0b62a1c1d8f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 175}
+  - name: UPflame dude_Frame_55
+    originalName: 
+    pivot: {x: 1.2499999, y: -0.75}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 119
+      width: 20
+      height: 32
+    spriteID: 7bd2a34b7249095439a7359dd1ac1513
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 119}
+  - name: UPflame dude_Frame_56
+    originalName: 
+    pivot: {x: 1.3157895, y: -0.49999997}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 119
+      width: 19
+      height: 48
+    spriteID: cb469c1860078c746990fb06acfd927f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 119}
+  - name: UPflame dude_Frame_57
+    originalName: 
+    pivot: {x: 1.2499999, y: -0.4897959}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 416
+      width: 20
+      height: 49
+    spriteID: a2a317097bd0a904caa31ef0bea2690f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 416}
+  - name: UPflame dude_Frame_58
+    originalName: 
+    pivot: {x: 1.1904762, y: -0.46153843}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 356
+      width: 21
+      height: 52
+    spriteID: ce0a5c00c47f68f49bd27974f147c4ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 356}
+  - name: UPflame dude_Frame_59
+    originalName: 
+    pivot: {x: 1.0416666, y: -0.34285715}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 278
+      width: 24
+      height: 70
+    spriteID: 4ac084b78444717418da2acacd798f94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 278}
+  - name: UPflame dude_Frame_60
+    originalName: 
+    pivot: {x: 0.93333334, y: -0.33802816}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 199
+      width: 30
+      height: 71
+    spriteID: 06796fb39aab92148978fe7e69b23c74
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 199}
+  - name: UPflame dude_Frame_61
+    originalName: 
+    pivot: {x: 0.94117653, y: -0.3333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 51
+      y: 119
+      width: 34
+      height: 72
+    spriteID: 270aec204bb3ff246b4c132abd9d50ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 51, y: 119}
+  - name: UPflame dude_Frame_62
+    originalName: 
+    pivot: {x: 0.97222227, y: -0.3243243}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 369
+      width: 36
+      height: 74
+    spriteID: 715a232301a599041b6f63a49247bb39
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 369}
+  - name: UPflame dude_Frame_63
+    originalName: 
+    pivot: {x: 1, y: -0.31578946}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 285
+      width: 36
+      height: 76
+    spriteID: 77689df9f5f93e948a63e3a3e6cadf65
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 285}
+  - name: UPflame dude_Frame_64
+    originalName: 
+    pivot: {x: 0.9473685, y: -0.3243243}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 203
+      width: 38
+      height: 74
+    spriteID: a4ebd765d1b745e49a00895fc645f4cd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 203}
+  - name: UPflame dude_Frame_65
+    originalName: 
+    pivot: {x: 0.974359, y: -0.31578946}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 119
+      width: 39
+      height: 76
+    spriteID: 8d4853380d9e87c4aba0f3ce4ec6c5eb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 119}
+  - name: UPflame dude_Frame_66
+    originalName: 
+    pivot: {x: 1.388889, y: -0.96}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 225
+      width: 18
+      height: 25
+    spriteID: ef638911f6cc1bf42a4cca2d34530843
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 225}
+  - name: UPflame dude_Frame_67
+    originalName: 
+    pivot: {x: 1.388889, y: -0.96}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 258
+      width: 18
+      height: 25
+    spriteID: 70d0305effef64c4abfd123425397da4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 258}
+  - name: UPflame dude_Frame_68
+    originalName: 
+    pivot: {x: 1.388889, y: -0.96}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 291
+      width: 18
+      height: 25
+    spriteID: 63d358fdbd703014f888e410051a0478
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 291}
+  - name: UPflame dude_Frame_2
+    originalName: 
+    pivot: {x: 1.7777779, y: -0.7037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 489
+      y: 84
+      width: 18
+      height: 27
+    spriteID: bab920f94966ec542870e8397a569ffe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 489, y: 84}
+  - name: UPflame dude_Frame_3
+    originalName: 
+    pivot: {x: 1.7777779, y: -0.7037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 290
+      width: 18
+      height: 27
+    spriteID: 2d45a17434ed2784c8c7822a546001f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 290}
+  - name: UPflame dude_Frame_4
+    originalName: 
+    pivot: {x: 1.7777779, y: -0.7307692}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 429
+      width: 18
+      height: 26
+    spriteID: 6fc3b44d96ab2de4592b66848a1d2ab1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 429}
+  - name: UPflame dude_Frame_5
+    originalName: 
+    pivot: {x: 1.7777779, y: -0.7916666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 216
+      width: 18
+      height: 24
+    spriteID: 4b3709c134618c6488244483979c8236
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 216}
+  - name: UPflame dude_Frame_6
+    originalName: 
+    pivot: {x: 1.7777779, y: -0.76}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 324
+      width: 18
+      height: 25
+    spriteID: 9ca1be5bcf7a4b943a15b851e33c5f42
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 324}
+  - name: UPflame dude_Frame_8
+    originalName: 
+    pivot: {x: 1.7777779, y: -0.7037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 325
+      width: 18
+      height: 27
+    spriteID: 018e25c7c51e9e14f9d148cd000b779e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 325}
+  - name: UPflame dude_Frame_9
+    originalName: 
+    pivot: {x: 1.7777779, y: -0.6785714}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 254
+      width: 18
+      height: 28
+    spriteID: 236f9f694e3e37f419a872689ae481d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 254}
+  - name: UPflame dude_Frame_10
+    originalName: 
+    pivot: {x: 1.7777779, y: -0.7037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 360
+      width: 18
+      height: 27
+    spriteID: 534f6fa2011ac20439cf0a6c8fbf0751
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 360}
+  - name: UPflame dude_Frame_11
+    originalName: 
+    pivot: {x: 1.4545456, y: -0.82608694}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 459
+      y: 84
+      width: 22
+      height: 23
+    spriteID: 0a23bb7b25b812f478d2d06e26d0d54e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 459, y: 84}
+  - name: UPflame dude_Frame_12
+    originalName: 
+    pivot: {x: 1.4545456, y: -0.7307692}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 399
+      y: 84
+      width: 22
+      height: 26
+    spriteID: f8f7a72ea18729a49b8d49a217bc0124
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 399, y: 84}
+  - name: UPflame dude_Frame_13
+    originalName: 
+    pivot: {x: 1.4545456, y: -0.7037037}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 369
+      y: 84
+      width: 22
+      height: 27
+    spriteID: 85a2831511220254db12d7a32f77aab3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 369, y: 84}
+  - name: UPflame dude_Frame_14
+    originalName: 
+    pivot: {x: 1.4545456, y: -0.7307692}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 429
+      y: 84
+      width: 22
+      height: 26
+    spriteID: 0ea771f7bf4822e4588438a4ae7fb224
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 429, y: 84}
+  - name: UPflame dude_Frame_46
+    originalName: 
+    pivot: {x: 1.388889, y: -0.96}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 357
+      width: 18
+      height: 25
+    spriteID: 92ff1e7f9e8cf4047875426bdff8b749
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 357}
+  - name: UPflame dude_Frame_47
+    originalName: 
+    pivot: {x: 1.388889, y: -0.99999994}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 248
+      width: 18
+      height: 24
+    spriteID: 7932b350dafbb99499792c3174707807
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 248}
+  - name: UPflame dude_Frame_48
+    originalName: 
+    pivot: {x: 1.388889, y: -0.96}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 390
+      width: 18
+      height: 25
+    spriteID: bc449988ac994814f993bf4407feaebb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 390}
+  - name: UPflame dude_Frame_49
+    originalName: 
+    pivot: {x: 1.388889, y: -0.96}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 423
+      width: 18
+      height: 25
+    spriteID: 6112415f947c0e8438d4950da1af031d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 423}
+  - name: UPflame dude_Frame_50
+    originalName: 
+    pivot: {x: 1.388889, y: -0.96}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 120
+      y: 456
+      width: 18
+      height: 25
+    spriteID: 59f102f152db2d9498f5ac9738893756
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 120, y: 456}
+  - name: UPflame dude_Frame_0
+    originalName: 
+    pivot: {x: 1.7777779, y: -0.7307692}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 93
+      y: 463
+      width: 18
+      height: 26
+    spriteID: 0e6aa2c3b9e63e348b843e92f87d9744
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 93, y: 463}
+  - name: UPflame dude_Frame_45
+    originalName: 
+    pivot: {x: 1.388889, y: -0.96}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 148
+      y: 119
+      width: 18
+      height: 25
+    spriteID: 1b5f2b18aa2ac014db55a11791a1f2e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 148, y: 119}
+  - name: UPflame dude_Frame_38
+    originalName: 
+    pivot: {x: 1.0526316, y: -0.3859649}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 451
+      width: 38
+      height: 57
+    spriteID: e143d66a4663a1d4d9fa93e10fcb6762
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 451}
+  - name: UPflame dude_Frame_39
+    originalName: 
+    pivot: {x: 1.0526316, y: -0.37288135}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 232
+      y: 51
+      width: 38
+      height: 59
+    spriteID: 2ac15218ce727554cae23a8a570881d1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 232, y: 51}
+  - name: UPflame dude_Frame_40
+    originalName: 
+    pivot: {x: 0.9583334, y: -0.36666664}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 176
+      y: 51
+      width: 48
+      height: 60
+    spriteID: 7e544b4fb0d83814aa71730b2d70ba2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 176, y: 51}
+  - name: UPflame dude_Frame_41
+    originalName: 
+    pivot: {x: 0.94, y: -0.36666664}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 51
+      width: 50
+      height: 60
+    spriteID: 6768f43fc858e8e40a3fbb9a63825f6d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 51}
+  - name: UPflame dude_Frame_42
+    originalName: 
+    pivot: {x: 0.9591837, y: -0.36666664}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 62
+      y: 51
+      width: 49
+      height: 60
+    spriteID: 86a23a671b6c1cf42a834e694121400c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 62, y: 51}
+  - name: UPflame dude_Frame_43
+    originalName: 
+    pivot: {x: 0.9591837, y: -0.36666664}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 119
+      y: 51
+      width: 49
+      height: 60
+    spriteID: b57c678e4cee5a94db965f6681d00f04
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 119, y: 51}
+  - name: UPflame dude_Frame_44
+    originalName: 
+    pivot: {x: 1.5217392, y: -1.5263157}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 174
+      y: 119
+      width: 23
+      height: 19
+    spriteID: fe0da42253fae8a4a9c03b5151498642
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 174, y: 119}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 388151534
+    name: UPflame dude
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: UPflame dude_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 15
+        y: 19
+        width: 18
+        height: 26
+      spriteId: 51c178e9fb26bac45bfa42aa709d561f
+    - name: UPflame dude_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 15
+        y: 19
+        width: 18
+        height: 23
+      spriteId: d7085aa561648c34c8aecae2d96b4082
+    - name: UPflame dude_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 15
+        y: 19
+        width: 30
+        height: 24
+      spriteId: 0f0e9dd50c1a7b343b01d5f6ee1df380
+    - name: UPflame dude_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 15
+        y: 19
+        width: 31
+        height: 24
+      spriteId: 85db72374a758c44f91b36e4ad65cf84
+    - name: UPflame dude_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 15
+        y: 19
+        width: 31
+        height: 24
+      spriteId: de73015990e4c4a45b5b6d351c6ab46f
+    - name: UPflame dude_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 15
+        y: 19
+        width: 45
+        height: 24
+      spriteId: 91b4cde49e839fc4c830d445af02009f
+    - name: UPflame dude_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 15
+        y: 19
+        width: 49
+        height: 24
+      spriteId: eaeee4dbefcbcf54689b1c92d5de0aa6
+    - name: UPflame dude_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 15
+        y: 19
+        width: 53
+        height: 24
+      spriteId: eef500dff46e21d4e86b361808234932
+    - name: UPflame dude_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 15
+        y: 19
+        width: 72
+        height: 25
+      spriteId: f6f57858cc170d148ab3ace7abea1b57
+    - name: UPflame dude_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 15
+        y: 19
+        width: 73
+        height: 29
+      spriteId: 5e743ac1bd7f3dc488b07630514a21d2
+    - name: UPflame dude_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 15
+        y: 18
+        width: 73
+        height: 34
+      spriteId: c0e790c729600a945945ac020af28cc1
+    - name: UPflame dude_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 15
+        y: 18
+        width: 79
+        height: 36
+      spriteId: 921e1048a7668be4e8015fd41b7d386a
+    - name: UPflame dude_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 15
+        y: 18
+        width: 79
+        height: 37
+      spriteId: 2490ac78527d44c4f8f973b3485322f9
+    - name: UPflame dude_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 15
+        y: 18
+        width: 78
+        height: 38
+      spriteId: c391e9fe65b096d438d4fa1fd01b54eb
+    - name: UPflame dude_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 15
+        y: 18
+        width: 79
+        height: 39
+      spriteId: b0c683cdee220444096cafa417fc0930
+    - name: UPflame dude_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 15
+        y: 19
+        width: 18
+        height: 23
+      spriteId: 85e8df8380c20ce4b9b429db97186f62
+    - name: UPflame dude_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 15
+        y: 19
+        width: 18
+        height: 24
+      spriteId: 3c389caa75536834389d1604b8e6aca4
+    - name: UPflame dude_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 15
+        y: 19
+        width: 18
+        height: 24
+      spriteId: 6f324be8e570a1245b36cb3b493072e2
+    - name: UPflame dude_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 15
+        y: 19
+        width: 19
+        height: 22
+      spriteId: 96a7fa33ecd4add458b75b0a0108e894
+    - name: UPflame dude_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 15
+        y: 19
+        width: 19
+        height: 20
+      spriteId: 325e9835b1eacf04e9118c29cfdaec7d
+    - name: UPflame dude_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 15
+        y: 19
+        width: 19
+        height: 18
+      spriteId: a2baec406be4f274e952a5e9f7ba2b6e
+    - name: UPflame dude_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 15
+        y: 19
+        width: 19
+        height: 18
+      spriteId: 53fe336c732ba194189d3a194b0462d6
+    - name: UPflame dude_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 15
+        y: 19
+        width: 19
+        height: 18
+      spriteId: 665591755fe6bd74ab14b96de82116a1
+    - name: UPflame dude_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 15
+        y: 19
+        width: 19
+        height: 18
+      spriteId: 101d5b0f9478fe243bf1de7d11b96d41
+    - name: UPflame dude_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 15
+        y: 19
+        width: 19
+        height: 18
+      spriteId: 9a59522f313b0eb45afc1437e73c5ed5
+    - name: UPflame dude_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 22
+        y: 24
+        width: 18
+        height: 25
+      spriteId: 7beb9f8f032b41c44b5df8bc4a7f4fbc
+    - name: UPflame dude_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 22
+        y: 24
+        width: 18
+        height: 25
+      spriteId: c39997c3220c36740800c3ecd22291f9
+    - name: UPflame dude_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 22
+        y: 24
+        width: 18
+        height: 32
+      spriteId: f3e88ddd2bbc76f41a44b93bee5f4c5c
+    - name: UPflame dude_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 22
+        y: 24
+        width: 19
+        height: 31
+      spriteId: 1e1b13a8e8fb1db4da03b0b62a1c1d8f
+    - name: UPflame dude_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 22
+        y: 24
+        width: 20
+        height: 32
+      spriteId: 7bd2a34b7249095439a7359dd1ac1513
+    - name: UPflame dude_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 22
+        y: 24
+        width: 19
+        height: 48
+      spriteId: cb469c1860078c746990fb06acfd927f
+    - name: UPflame dude_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 22
+        y: 24
+        width: 20
+        height: 49
+      spriteId: a2a317097bd0a904caa31ef0bea2690f
+    - name: UPflame dude_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 22
+        y: 24
+        width: 21
+        height: 52
+      spriteId: ce0a5c00c47f68f49bd27974f147c4ed
+    - name: UPflame dude_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 22
+        y: 24
+        width: 24
+        height: 70
+      spriteId: 4ac084b78444717418da2acacd798f94
+    - name: UPflame dude_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 19
+        y: 24
+        width: 30
+        height: 71
+      spriteId: 06796fb39aab92148978fe7e69b23c74
+    - name: UPflame dude_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 15
+        y: 24
+        width: 34
+        height: 72
+      spriteId: 270aec204bb3ff246b4c132abd9d50ce
+    - name: UPflame dude_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 12
+        y: 24
+        width: 36
+        height: 74
+      spriteId: 715a232301a599041b6f63a49247bb39
+    - name: UPflame dude_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 11
+        y: 24
+        width: 36
+        height: 76
+      spriteId: 77689df9f5f93e948a63e3a3e6cadf65
+    - name: UPflame dude_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 11
+        y: 24
+        width: 38
+        height: 74
+      spriteId: a4ebd765d1b745e49a00895fc645f4cd
+    - name: UPflame dude_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 9
+        y: 24
+        width: 39
+        height: 76
+      spriteId: 8d4853380d9e87c4aba0f3ce4ec6c5eb
+    - name: UPflame dude_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 22
+        y: 24
+        width: 18
+        height: 25
+      spriteId: ef638911f6cc1bf42a4cca2d34530843
+    - name: UPflame dude_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: 22
+        y: 24
+        width: 18
+        height: 25
+      spriteId: 70d0305effef64c4abfd123425397da4
+    - name: UPflame dude_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: 22
+        y: 24
+        width: 18
+        height: 25
+      spriteId: 63d358fdbd703014f888e410051a0478
+    - name: UPflame dude_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 15
+        y: 19
+        width: 18
+        height: 27
+      spriteId: bab920f94966ec542870e8397a569ffe
+    - name: UPflame dude_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 15
+        y: 19
+        width: 18
+        height: 27
+      spriteId: 2d45a17434ed2784c8c7822a546001f0
+    - name: UPflame dude_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 15
+        y: 19
+        width: 18
+        height: 26
+      spriteId: 6fc3b44d96ab2de4592b66848a1d2ab1
+    - name: UPflame dude_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 15
+        y: 19
+        width: 18
+        height: 24
+      spriteId: 4b3709c134618c6488244483979c8236
+    - name: UPflame dude_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 15
+        y: 19
+        width: 18
+        height: 25
+      spriteId: 9ca1be5bcf7a4b943a15b851e33c5f42
+    - name: UPflame dude_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 15
+        y: 19
+        width: 18
+        height: 27
+      spriteId: 018e25c7c51e9e14f9d148cd000b779e
+    - name: UPflame dude_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 15
+        y: 19
+        width: 18
+        height: 28
+      spriteId: 236f9f694e3e37f419a872689ae481d9
+    - name: UPflame dude_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 15
+        y: 19
+        width: 18
+        height: 27
+      spriteId: 534f6fa2011ac20439cf0a6c8fbf0751
+    - name: UPflame dude_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 15
+        y: 19
+        width: 22
+        height: 23
+      spriteId: 0a23bb7b25b812f478d2d06e26d0d54e
+    - name: UPflame dude_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 15
+        y: 19
+        width: 22
+        height: 26
+      spriteId: f8f7a72ea18729a49b8d49a217bc0124
+    - name: UPflame dude_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 15
+        y: 19
+        width: 22
+        height: 27
+      spriteId: 85a2831511220254db12d7a32f77aab3
+    - name: UPflame dude_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 15
+        y: 19
+        width: 22
+        height: 26
+      spriteId: 0ea771f7bf4822e4588438a4ae7fb224
+    - name: UPflame dude_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 22
+        y: 24
+        width: 18
+        height: 25
+      spriteId: 92ff1e7f9e8cf4047875426bdff8b749
+    - name: UPflame dude_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 22
+        y: 24
+        width: 18
+        height: 24
+      spriteId: 7932b350dafbb99499792c3174707807
+    - name: UPflame dude_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 22
+        y: 24
+        width: 18
+        height: 25
+      spriteId: bc449988ac994814f993bf4407feaebb
+    - name: UPflame dude_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 22
+        y: 24
+        width: 18
+        height: 25
+      spriteId: 6112415f947c0e8438d4950da1af031d
+    - name: UPflame dude_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 22
+        y: 24
+        width: 18
+        height: 25
+      spriteId: 59f102f152db2d9498f5ac9738893756
+    - name: UPflame dude_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 15
+        y: 19
+        width: 18
+        height: 26
+      spriteId: 0e6aa2c3b9e63e348b843e92f87d9744
+    - name: UPflame dude_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 22
+        y: 24
+        width: 18
+        height: 25
+      spriteId: 1b5f2b18aa2ac014db55a11791a1f2e6
+    - name: UPflame dude_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 7
+        y: 22
+        width: 38
+        height: 57
+      spriteId: e143d66a4663a1d4d9fa93e10fcb6762
+    - name: UPflame dude_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 7
+        y: 22
+        width: 38
+        height: 59
+      spriteId: 2ac15218ce727554cae23a8a570881d1
+    - name: UPflame dude_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 1
+        y: 22
+        width: 48
+        height: 60
+      spriteId: 7e544b4fb0d83814aa71730b2d70ba2e
+    - name: UPflame dude_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 0
+        y: 22
+        width: 50
+        height: 60
+      spriteId: 6768f43fc858e8e40a3fbb9a63825f6d
+    - name: UPflame dude_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 0
+        y: 22
+        width: 49
+        height: 60
+      spriteId: 86a23a671b6c1cf42a834e694121400c
+    - name: UPflame dude_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 0
+        y: 22
+        width: 49
+        height: 60
+      spriteId: b57c678e4cee5a94db965f6681d00f04
+    - name: UPflame dude_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 12
+        y: 29
+        width: 23
+        height: 19
+      spriteId: fe0da42253fae8a4a9c03b5151498642
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 94, y: 100}
